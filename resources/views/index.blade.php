@@ -7,10 +7,10 @@
             <div class="row jo-main mb-5 pb-lg-5 align-items-center">
                 <div class="col-12 col-lg-6 text-center">
                     <img src="{{ URL::to('img/logo.png') }}"
-                         class="mb-4 img-fluid" alt="Jury.online logo"
+                         class="mb-4 img-fluid" alt="Jury.online logo"/>
 
                     <h1 style="font-size: 22px;">
-                        Будущее<br>решениия споров
+                        ZERO COMISSION FREELANCE PLATFORM
                     </h1>
                 </div>
 
@@ -154,13 +154,7 @@
     </div>
 
     <div class="col-12 col-lg-4 text-center mb-5">
-        <img src="/img/logo-w.png"
-             alt="jury.online shield" style="width: 155px;">
-
-        <div id="rhombus">
-            <img src="/img/rhombus.png"
-                 alt="">
-        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" id="spinner" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" height="133" width="105.47798719178425"><g id="SvgjsG1075" rel="mainfill" name="main_text" xmlns:name="mainText_mainfill" fill="#ffffff" transform="translate(52.738993595892126,133)"><path d=""></path></g><defs id="SvgjsDefs1074"></defs><g id="SvgjsG1076" rel="mainfill" name="symbol" xmlns:name="symbol_mainfill" fill="#ffffff" transform="translate(-34.46172264652383,-28.183271126966538) scale(34.880284833744795)"><g xmlns="http://www.w3.org/2000/svg"><g><polygon fill="" points="2.623,4.191 2.404,3.812 3.574,3.136 3.574,1.906 3.213,1.688 2.156,2.3 2.156,2.642 1.719,2.642     1.719,2.048 3.219,1.18 4.012,1.661 4.012,3.388   "></polygon></g><g><polygon fill="" points="1.781,3.818 0.99,3.338 0.988,1.609 2.379,0.808 2.598,1.186 1.426,1.862 1.428,3.092     1.787,3.311 2.846,2.698 2.846,2.356 3.283,2.356 3.283,2.951   "></polygon></g></g></g></svg>
     </div>
 </div>
 

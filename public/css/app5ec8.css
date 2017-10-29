@@ -5926,3 +5926,17 @@ a.btn.btn-primary.btn-md.login-btn {
 .login-button{cursor:pointer;}
 
 .alert.alert-success, .alert.alert-danger {margin-top:20px;}
+
+
+#spinner {
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 7s;
+  text-align: center;
+  zoom: 132%;
+}
+@keyframes spin {
+  from { transform: rotateY(0deg); }
+  to { transform: rotateY(-360deg); }
+}
