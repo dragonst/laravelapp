@@ -4,7 +4,7 @@
 <!-- Mirrored from jury.online/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Oct 2017 17:00:13 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-    <title>Jury.online – Будущее решения споров</title>
+    <title>Chain Lancers - Zero commission freelance platform</title>
 
 
         <!-- Google Tag Manager -->
@@ -105,17 +105,12 @@
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-
-
-
-
-
-
-
-        <section id="signup" class="bg-primary pt-5 mt-5 mt-lg-0 pt-lg-0 position-relative">
-            <nav id="navbar" class="navbar navbar-expand-lg navbar-dark mb-4">
+      <?php if(Route::current()->getName() == 'index')
+      echo   '<section id="signup" class="bg-primary pt-5 mt-5 mt-lg-0 pt-lg-0 position-relative">';
+      ?>
+            <nav id="navbar" class=" <?php if(Route::current()->getName() == 'ico')   echo 'navbar navbar-expand-lg navbar-light mb-5'; else {echo 'navbar navbar-expand-lg navbar-dark mb-4';} ?>">
                 <div class="container">
-                    <a class="navbar-brand py-3" href="index.html">
+                    <a class="navbar-brand py-3" href="/">
                         <img alt="jury.online" width="180" class="img-b d-none"
                              src="/img/logo-navbar.png">
 
@@ -141,7 +136,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="ico.html"class="nav-link">
+                                    <a href="/ico"class="nav-link">
                                         ICO</a>
                                 </li>
 
@@ -185,7 +180,7 @@
           <br>
           <div class="wrapper wrapper-login">
           <span class="group-btn">
-            
+
               <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>

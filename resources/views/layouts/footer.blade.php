@@ -3,10 +3,10 @@
         <div class="row no-gutters justify-content-center">
             <div class="col-12 col-lg-9">
                 <h2 class="mb-5 pb-0 pb-lg-5">
-                    Свяжитесь с нами<br>
+                    CONTACT US<br>
 
-                    <a href="mailto:contact@jury.online">
-                        <small class="font-xlight">contact@jury.online</small>
+                    <a href="">
+                        <small class="font-xlight">contact@chainlancers.com</small>
                     </a>
                 </h2>
 

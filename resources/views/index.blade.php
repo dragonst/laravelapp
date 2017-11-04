@@ -10,7 +10,7 @@
                          class="mb-4 img-fluid" alt="Jury.online logo"/>
 
                     <h1 style="font-size: 22px;">
-                        ZERO COMISSION FREELANCE PLATFORM
+                        ZERO COMMISSION FREELANCE PLATFORM
                     </h1>
                 </div>
 
@@ -113,23 +113,23 @@
 <section id="crowdsale" class="py-5 bg-primary">
 <div class="container">
 <h2 class="mb-5">
-    Краудсейл
+    CROWDSALE
 </h2>
 
 <div class="row no-gutters justify-content-center">
     <div class="col-12 col-lg-4 text-center mb-5" id="pre-ico">
         <h3 class="font-xlight mb-3">
-            PRE-ICO начнется через
+            PRESALE BEGINS IN
         </h3>
 
         <div class="row no-gutters">
             <div class="col-12">
 
 <div class="d-none">
-<span id="days">Дней</span>
-<span id="hours">Часов</span>
-<span id="minutes">Минут</span>
-<span id="seconds">Секунд</span>
+<span id="days">Days</span>
+<span id="hours">Hours</span>
+<span id="minutes">Minutes</span>
+<span id="seconds">Seconds</span>
 </div>
 
 <div id="countdown"></div>
@@ -140,16 +140,16 @@
 
     <div class="col-12 col-lg-4 text-center mb-5">
         <h3 class="font-xlight">
-            1 ETH = 300 JOT<br>
-            <small>30% скидка</small>
+            1 ETH = 300 CHL<br>
+            <small>30% bonus</small>
         </h3>
 
-        <p>Минимальное количество: 500 JOT</p>
+        <p>Minimum quantity: 500 CHL</p>
 
         <p class="mb-3 mb-lg-0">
-            Даты:
-            23 октября 14:00 UTC -<br>
-            3 ноября 2017 14:00 UTC
+            Date:
+            23 october 14:00 UTC -<br>
+            3 november 2017 14:00 UTC
         </p>
     </div>
 
@@ -171,82 +171,80 @@
 <section id="applications" class="pt-5 py-lg-5">
 <div class="container">
 <h2 class="mb-5">
-    ПРИМЕНЕНИЕ
+    APPLICATIONS
 </h2>
 
 <div class="row text-center items-aligin-staer">
     <div class="col-12 col-lg">
         <h4 class="mb-4">
-            Безопасная сделка
+            Zero Fees
         </h4>
 
         <p class="d-lg-none mb-5">
-            <img src="/img/applications/escrow.svg"
+            <img src="/img/applications/percentage.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
-
-            Деньги хранятся на балансе смарт-контракта сделки.
+            Chain Lancers fees are only 3% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
     </div>
 
     <div class="col-12 col-lg">
         <h4 class="mb-4">
-            Защита клиентов
+            No Censorship
         </h4>
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/customer-protection.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
-
-            Защищенный залог в криптовалюте гарантирует вашим клиентам надежную безопасность.
+            Due to Chain Lancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
         </p>
     </div>
 
     <div class="col-12 col-lg">
         <h4 class="mb-4">
-            Поэтапные платежи
+            Secure Payment
         </h4>
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/milestone-payments.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
 
-            Совершайте сделки, в которых оплата разбита на несколько этапов.
+            On Chain Lancers, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Token holders will decide the outcome. Never again will you encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
         </p>
     </div>
 
     <div class="col-12 col-lg">
         <h4 class="mb-4">
-            Разрешение споров
+            Fair Dispute Settlement
         </h4>
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/dispute-resolution.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
 
-            Воспользуйтесь экспертной оценкой, чтобы узнать кто прав, а кто виноват.
+            Never depend on a single, centralized authority to settle your disputes again. With our Tokenholder Tribunal, the decision lies in the hands of thousands for Tokenholders, guaranteeing a fair decision.
         </p>
     </div>
 
     <div class="col-12 col-lg">
         <h4 class="mb-4">
-            Безграничные сделки
+            Smart Contracts
         </h4>
 
         <p class="d-lg-none mb-5">
-            <img src="/img/applications/overseas-deals.svg"
+            <img src="/img/applications/handshake2.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
 
-            Расстояния иллюзорны. Проводите сделки со всем миром.
+            Customizable Well-Executed Contracts and Events
         </p>
     </div>
 </div>
 
 <div class="row text-center d-none d-lg-flex">
     <div class="col-12 col-lg mb-5 mb-lg-0">
-        <img src="/img/applications/escrow.svg"
+        <img src="/img/applications/percentage.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Деньги хранятся на балансе смарт-контракта сделки.
+            Chain Lancers fees are only 3% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
     </div>
 
@@ -254,7 +252,7 @@
         <img src="/img/applications/customer-protection.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Защищенный залог в криптовалюте гарантирует вашим клиентам надежную безопасность.
+            Due to Chain Lancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
         </p>
     </div>
 
@@ -262,7 +260,7 @@
         <img src="/img/applications/milestone-payments.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Совершайте сделки, в которых оплата разбита на несколько этапов.
+            On Blocklancer, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Tokenholders will decide the outcome. Never again will you encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
         </p>
     </div>
 
@@ -270,14 +268,14 @@
         <img src="/img/applications/dispute-resolution.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Воспользуйтесь экспертной оценкой, чтобы узнать кто прав, а кто виноват.
+            Never depend on a single, centralized authority to settle your disputes again. With our Tokenholder Tribunal, the decision lies in the hands of thousands for Tokenholders, guaranteeing a fair decision.
         </p>
     </div>
     <div class="col-12 col-lg mb-5 mb-lg-0">
-        <img src="/img/applications/overseas-deals.svg"
+        <img src="/img/applications/handshake2.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Расстояния иллюзорны. Проводите сделки со всем миром.
+            Customizable Well-Executed Contracts and Events.
         </p>
     </div>
 </div>
@@ -287,7 +285,7 @@
 <section id="how-it-works" class="bg-primary py-5">
 <div class="container text-center">
 <h2 class="mb-5">
-    КАК ЭТО РАБОТАЕТ
+    HOW IT WORKS
 </h2>
 
 <div class="row justify-content-center mb-4">
@@ -318,85 +316,85 @@
 <section id="features" class="pt-5 py-lg-5">
 <div class="container">
 <h2 class="mb-5">
-    ФУНКЦИИ
+    FEATURES
 </h2>
 
 <div class="row text-center">
     <div class="col-12 col-lg-4 mb-5">
         <h4 class="mb-4">
-            Независимый от блокчейна протокол
+            Security
         </h4>
 
         <img src="/img/features/protocol.svg"
              alt="jury.online features" class="mb-4">
 
         <p>
-            Свободный протокол с ясной спецификацией и возможностью реализации на базе любого блокчейна со смарт-контрактами.
+            Уour payments will be protected through smart contracts based on Ethereum.
         </p>
     </div>
 
     <div class="col-12 col-lg-4 mb-5">
         <h4 class="mb-4">
-            Честный судебный процесс
+            Easy to start
         </h4>
 
-        <img src="/img/features/fair-trial.svg"
+        <img src="/img/features/power.svg"
              alt="jury.online features" class="mb-4">
 
         <p>
-            Jury.online включает в себя ряд антикоррупционных систем. Судьи не будут знать вердикт других судей с целью избежания принятия решения по принципу проголосовавшего большинства. Экономическая и рейтинговая мотивация заставляет судей расследовать и разрешать споры справедливо и правильно, а не случайным образом выносить свои приговоры.
+            You can start right now, using your network find a client. You can connect your profile in ChainLancers with every social network which you are registered.
         </p>
     </div>
 
     <div class="col-12 col-lg-4 mb-5">
         <h4 class="mb-4">
-            Рынок<br>судейства
+            High demand for help
         </h4>
 
-        <img src="/img/features/jury-market.svg"
+        <img src="/img/features/loudspeaker-with-two-sound-waves.svg"
              alt="jury.online features" class="mb-4">
 
         <p>
-            Jury.online создает рынок независимых судей. Судьи заранее предоставляют цену, за которую готовы рассматривать споры, позволяя контрагентам наперед знать сколько будет стоить возможный спор и точно оценивать риски.
+            While the marketplace of freelancers is competitive, the need for quality, reliable freelancers is growing. Many businesses don't have suitable employees and ChainLancers is there solution for them.
         </p>
     </div>
 
     <div class="col-12 col-lg-4 mb-5 mb-lg-0">
         <h4 class="mb-4">
-            Безопасность
+            0% Commission
         </h4>
 
-        <img src="/img/features/security.svg"
+        <img src="/img/applications/percentage.svg"
              alt="jury.online features" class="mb-4">
 
         <p>
-            Децентрализованная безопасная работа на основе технологии блокчейна.
+            The payments will be without any fees between participants.
         </p>
     </div>
 
     <div class="col-12 col-lg-4 mb-5 mb-lg-0">
         <h4 class="mb-4">
-            Кастомизация судейства
+            Tribunal
         </h4>
 
-        <img src="/img/features/customization.svg"
+        <img src="/img/features/auction.svg"
              alt="jury.online features" class="mb-4">
 
         <p>
-            Контрагенты выбирают пулы судей, специализирующиеся на конкретной сфере сделки.
+            Neutral settlement of disputes - Freelancers Tribunal
         </p>
     </div>
 
     <div class="col-12 col-lg-4 mb-5 mb-lg-0">
         <h4 class="mb-4">
-            Интеграция
+            Quick Results
         </h4>
 
-        <img src="/img/features/integration.svg"
+        <img src="/img/features/checked.svg"
              alt="jury.online features" class="mb-4">
 
         <p>
-            Простое подключение платформы к сторонним сервисам: онлайн-магазинам, биржам фрилансеров.
+            Every client will be able to receive all offers from freelancers within minutes. Easy & SecurePay for the work safely. Only release payment when you are 100% satisfied with the work provided. Both sides can be calm because ours ChainLancers Tribunal!
         </p>
     </div>
 </div>
@@ -406,7 +404,7 @@
 <section id="team" class="pt-5 py-lg-5 bg-primary">
 <div class="container">
 <h2 class="mb-5">
-    Команда jury.online
+    OUR TEAM
 </h2>
 
 <div class="row justify-content-center mb-5">
@@ -417,7 +415,7 @@
 </div>
 
 <h2 class="mb-5">
-    РАЗРАБОТЧИКИ
+    DEVELOPERS
 </h2>
 
 <div class="row mb-5 justify-content-center">
@@ -572,7 +570,7 @@
 </div>
 
 <h2 class="mb-5">
-    Команда
+    Managers
 </h2>
 
 <div class="row mb-5 justify-content-center" id="popup-trigger">
@@ -801,7 +799,7 @@
 </div>
 
 <h2 class="mb-5 mt-5">
-    КОНСУЛЬТАНТЫ
+    CONSULTANTS
 </h2>
 
 <div class="row justify-content-center">
@@ -937,7 +935,7 @@
 <section id="roadmap" class="pt-5 mb-5">
 <div class="container position-relative">
 <h2 class="mb-5">
-    ДОРОЖНАЯ КАРТА
+    ROADMAP
 </h2>
 
 <div class="position-absolute d-none mx-2 d-lg-block mt-1 pt-1">

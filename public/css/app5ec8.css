@@ -5932,7 +5932,7 @@ a.btn.btn-primary.btn-md.login-btn {
   animation-name: spin;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
-  animation-duration: 7s;
+  animation-duration: 15s;
   text-align: center;
   zoom: 132%;
 }

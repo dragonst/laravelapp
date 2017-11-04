@@ -21,3 +21,6 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/users/confirmation/{token}', 'Auth\RegisterController@confirmation')->name('confirmation');
 Route::get('/confirmation/success/', 'Auth\RegisterController@confirmation_success')->name('confirmation-success');
+Route::get('/ico/',function(){
+   return view('ico');
+ })->name('ico');
