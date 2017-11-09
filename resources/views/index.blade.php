@@ -9,7 +9,7 @@
                     <img src="{{ URL::to('img/logo.png') }}"
                          class="mb-4 img-fluid" alt="Jury.online logo"/>
 
-                    <h1 style="font-size: 22px;">
+                    <h1 style="font-size: 21px;">
                         ZERO COMMISSION FREELANCE PLATFORM
                     </h1>
                 </div>
@@ -74,7 +74,7 @@
 <div class="container">
 <div class="row text-center align-items-center p-4">
 <div class="col-12 col-lg-auto mx-auto mb-4 mb-lg-0">
-    <a href="http://financemagnates.com/cryptocurrency/news/jury-online-plans-ico-modernize-dispute-resolution-using-smart-contracts/">
+    <a href="">
         <img src="/img/header/fm_logo.svg"
              alt="FM logo" class="w-100px">
     </a>
@@ -163,7 +163,7 @@
 <div class="text-center">
 
 
-    <a href="ico.html" class="btn btn-primary">ICO page</a>
+    <a href="/ico" class="btn btn-primary">ICO page</a>
 </div>
 </div>
 </section>
@@ -183,7 +183,7 @@
         <p class="d-lg-none mb-5">
             <img src="/img/applications/percentage.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
-            Chain Lancers fees are only 3% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
+            ChainLancers fees are only 0% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
     </div>
 
@@ -195,7 +195,7 @@
         <p class="d-lg-none mb-5">
             <img src="/img/applications/customer-protection.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
-            Due to Chain Lancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
+            Due to ChainLancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
         </p>
     </div>
 
@@ -208,7 +208,7 @@
             <img src="/img/applications/milestone-payments.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
 
-            On Chain Lancers, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Token holders will decide the outcome. Never again will you encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
+            On ChainLancers, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Token holders will decide the outcome. You will never again encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
         </p>
     </div>
 
@@ -244,7 +244,7 @@
         <img src="/img/applications/percentage.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Chain Lancers fees are only 3% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
+            ChainLancers fees are only 0% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
     </div>
 
@@ -252,7 +252,7 @@
         <img src="/img/applications/customer-protection.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            Due to Chain Lancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
+            Due to ChainLancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
         </p>
     </div>
 
@@ -293,20 +293,19 @@
         <iframe src="http://youtube.com/embed/ofFKvgUVxEE" class="w-100 mb-5" height="400"
                 style="border: 0;" allowfullscreen></iframe>
 
-        <img src="/img/how-it-works/schemec619.png?v=1.0"
-             alt="jury.online schema" class="img-fluid">
+        <!--<img src="/img/how-it-works/schemec619.png?v=1.0"
+             alt="jury.online schema" class="img-fluid">-->
     </div>
 </div>
 
 <div class="row justify-content-center">
     <div class="col-12 col-lg-8 text-justify">
-        Стороны соглашаются с условиями сделки, затем сделка помещается в блокчейн в форме смарт-контракта, который хранит средства в криптовалюте. После успешного выполнения сделки, деньги отправляются получателю. Если между сторонами сделки возникает спор, их сделка рассматривается группой специализированных независимых судей-экспертов, которые оглашают итоговый вердикт по сделке большинством голосов.
+         Our Ethereum based platform uses the escrow payment system which holds the contract fees until the set obligations of the contract are met. On project completion, the funds are released, securing the interests of both the parties involved.
 
-        <div class="d-flex justify-content-between mt-5">
+        <div class="d-flex justify-content-between mt-5 whitepaper-btn">
             <a href="static/jury.online.whitepaper.2.00eb3.pdf?v2.0"
                class="btn btn-primary">Whitepaper</a>
-               <a href="static/jury.online.lightpaper0eb3.pdf?v2.0"
-               class="btn btn-secondary">Lightpaper</a>
+
         </div>
     </div>
 </div>
@@ -342,7 +341,7 @@
              alt="jury.online features" class="mb-4">
 
         <p>
-            You can start right now, using your network find a client. You can connect your profile in ChainLancers with every social network which you are registered.
+            You can start right now, using your network to find a client. You can connect your ChainLancers profile with every social network which you are registered.
         </p>
     </div>
 
@@ -394,7 +393,7 @@
              alt="jury.online features" class="mb-4">
 
         <p>
-            Every client will be able to receive all offers from freelancers within minutes. Easy & SecurePay for the work safely. Only release payment when you are 100% satisfied with the work provided. Both sides can be calm because ours ChainLancers Tribunal!
+            Every client will be able to receive all offers from freelancers within minutes. Easy & secure payments for the completed work. Only release payment when you are 100% satisfied with the work provided. Both sides can feel in good hands because of the ChainLancers Tribunal!
         </p>
     </div>
 </div>
@@ -522,412 +521,14 @@
     <small>Арт-директор</small>
 </p>
 
-
-
-
-
-
-
-
-
-
 </div>
 </div>
 
         </div>
-
-        <div class="col-12 col-lg-4 px-2 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/maf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online АНДРЕЙ МУХАМЕТВАЛЕЕВ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">АНДРЕЙ МУХАМЕТВАЛЕЕВ</h5>
-
-<p class="text-uppercase">
-    <small>WEB - РАЗРАБОТЧИК</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/mukhametvaleev" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
 </div>
-</div>
-
         </div>
-
 </div>
-
-<h2 class="mb-5">
-    Managers
-</h2>
-
-<div class="row mb-5 justify-content-center" id="popup-trigger">
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/apf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online АРТ ПИРОЖКОВ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">АРТ ПИРОЖКОВ</h5>
-
-<p class="text-uppercase">
-    <small>ГЛАВНЫЙ ОПЕРАЦИОННЫЙ ДИРЕКТОР</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/art-pirozhkov-2a87b912a" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
         </div>
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/abf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online АНАСТАСИЯ БОРМОТОВА">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">АНАСТАСИЯ БОРМОТОВА</h5>
-
-<p class="text-uppercase">
-    <small>PR</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/anastasia-bormotova/" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/mkf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online МАРИНА КОБЯКОВА">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">МАРИНА КОБЯКОВА</h5>
-
-<p class="text-uppercase">
-    <small>МЕНЕДЖЕР ПО РАЗВИТИЮ БИЗНЕСА</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/marina-kobyakova-32a00710" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/ssf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online САРТАК САХАИ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">САРТАК САХАИ</h5>
-
-<p class="text-uppercase">
-    <small>ДИРЕКТОР СООБЩЕСТВ</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/sarthaksahai" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/ezf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online ЭРИК ЗИМКИНД">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">ЭРИК ЗИМКИНД</h5>
-
-<p class="text-uppercase">
-    <small>МАРКЕТИНГ</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/eric-zimkind-8ba72568" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/vuf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online Владислав Усов">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">Владислав Усов</h5>
-
-<p class="text-uppercase">
-    <small>МЕНЕДЖЕР СООБЩЕСТВ</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/vladislav-usov-67273914b" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-sm-6 col-lg-4 px-2 px-sm-0 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/avf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online АНДРЕЙ ВЕРЕССОВ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">АНДРЕЙ ВЕРЕССОВ</h5>
-
-<p class="text-uppercase">
-    <small>Юридическая регистрация</small>
-</p>
-
-
-
-
-    <a href="http://brightlaw.ee/en/about" target="_blank">
-        <img src="/img/social/wechat.png"
-            alt="website" class="mr-2"></a>
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/andrei-veressov-b535ba21" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-</div>
-
-<h2 class="mb-5 mt-5">
-    CONSULTANTS
-</h2>
-
-<div class="row justify-content-center">
-
-        <div class="col-12 col-lg-4 px-2 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/mgf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online МИХАЭЛЬ ГРИНБЕРГ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">МИХАЭЛЬ ГРИНБЕРГ</h5>
-
-<p class="text-uppercase">
-    <small>МЕДИА-КОНСУЛЬТАНТ, ОСНОВАТЕЛЬ И ГЕНЕРАЛЬНЫЙ ДИРЕКТОР FINANCE MAGNATES</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/greenbergmichael" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-lg-4 px-2 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/dmf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online ДЭВИД МАЛИЦ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">ДЭВИД МАЛИЦ</h5>
-
-<p class="text-uppercase">
-    <small>PR КОНСУЛЬТАНТ, ОСНОВАТЕЛЬ И ГЕНЕРАЛЬНЫЙ ДИРЕКТОР DAVID MALITS PR</small>
-</p>
-
-
-
-
-
-
-
-
-
-
-    <a href="http://linkedin.com/in/david-malits-59823531" target="_blank">
-        <img src="/img/social/linkedin.png"
-            class="mr-2 social"></a>
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-lg-4 px-2 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/adbf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online ДЭВИД БАРЭЛ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">ДЭВИД БАРЭЛ</h5>
-
-<p class="text-uppercase">
-    <small>ЮРИДИЧЕСКИЙ КОНСУЛЬТАНТ</small>
-</p>
-
-
-    <a href="mailto:Law.barel@gmail.com">
-        <img src="/img/social/wechat.png"
-            class="mr-2"></a>
-
-
-
-
-
-
-
-
-
-</div>
-</div>
-
-        </div>
-
-        <div class="col-12 col-lg-4 px-2 px-lg-3 mb-4 mb-lg-0">
-
-<div class="media p-0 p-sm-3 h-100">
-<img src="/img/team/igf195.png?v=2.1"
- class="d-flex mr-3 avatar" alt="Jury.online ИЛЬЯ ЕГОРОВ">
-
-<div class="media-body">
-<h5 class="text-left" style="word-spacing: 100vw;">ИЛЬЯ ЕГОРОВ</h5>
-
-<p class="text-uppercase">
-    <small>КОНСУЛЬТАНТ ПО МАРКЕТИНГУ, ПАРТНЕР В RUSMARKETING DIGITAL AGENCY</small>
-</p>
-
-
-
-
-
-
-
-
-    <a href="http://facebook.com/ilya.golotin" target="_blank">
-        <img src="/img/social/facebook.png"
-             class="mr-2"></a>
-
-
-
-</div>
-</div>
-
-        </div>
-
 </div>
 </div>
 </section>
@@ -945,25 +546,25 @@
         <div class="col" style="height: 180px;">
             <div class="font-bold">2017</div>
             <div class="mb-4 pb-3">
-                Сентябрь
+                xx.xx
             </div>
-            ICO и разработка проектов
+            Beginning of CHL Token sale
         </div>
 
         <div class="col">
             <div class="font-bold">2017</div>
             <div class="mb-4 pb-3">
-                Июль - Август
+                xx.xx
             </div>
-            Анализ рынка
+            ChainLancers Platform Launch
         </div>
 
         <div class="col">
             <div class="font-bold">2017</div>
             <div class="mb-4 pb-3">
-                Июнь
+                xx.xx
             </div>
-            Оценка идей
+            Distribution of CHL Tokens
         </div>
 
         <div class="col"></div>
@@ -977,79 +578,51 @@
         <div class="col">
             <div class="font-bold">2017</div>
             <div class="mb-4 pb-3">
-                Октябрь -
-                Декабрь
-            </div>
-            ICO
+                xx.xx
+            </div></br>
+            ChainLancers App Launch
+
         </div>
 
         <div class="col mt-0 mt-4">
             <div class="font-bold">2018</div>
             <div class="mb-4 pb-3">
-                Январь
+                xx.xx
             </div>
-            Технический WP
+            UX/UI Upgrades Solution Reviews & Platform Upgrades
         </div>
 
         <div class="col mt-4">
             <div class="font-bold">2018</div>
             <div class="mb-4 pb-3">
-                Март
+                xx.xx
             </div>
-            Релиз web-версии
+            Market Opportunities
+App & Platform Outreach
+3rd Party Integrations
         </div>
 
         <div class="col mt-4" style="height: 180px;">
             <div class="font-bold">2018</div>
             <div class="mb-4 pb-3">
-                Апрель
+                xx.xx
             </div>
-            Релиз приложения для Android
+            Upgrades in functionality
+Platform Console Upgrades
         </div>
 
         <div class="col mt-4">
             <div class="font-bold">2018</div>
             <div class="mb-4 pb-3">
-                Май
+                xx.xx
             </div>
-            Релиз приложения для iOS
+            ChainLancers App Stability & Support
         </div>
 
         <div class="col"></div>
     </div>
 
-    <div class="row mb-1 pt-1 pb-3 text-center">
-        <div class="col"></div>
-        <div class="col"></div>
-        <div class="col"></div>
 
-        <div class="col mt-4">
-            <div class="font-bold">2018/19</div>
-            <div class="mb-4 pb-3">
-                Зима
-            </div>
-            Интеграция со сторонними сервисами
-        </div>
-
-        <div class="col mt-4">
-            <div class="font-bold">2018</div>
-            <div class="mb-4 pb-3">
-                Осень
-            </div>
-            Интеграция инфраструктуры
-        </div>
-
-        <div class="col">
-            <div class="font-bold">2018</div>
-            <div class="mb-4 pb-3">
-                Лето -<br>
-                Осень
-            </div>
-            Открытие сторонних пулов
-        </div>
-
-        <div class="col"></div>
-    </div>
 </div>
 
 <img src="/img/roadmap/roadmapc619.jpg?v=1.0"
@@ -1059,15 +632,16 @@
     <div class="col-3 col-sm-2 bg-roadmap-blue"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2017</div>
-        <div>Июнь</div>
-        <div>Оценка идей</div>
+        <div>xx.xx</div>
+        <div>Beginning of
+CHL Token sale</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-blue"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2017</div>
-        <div>Июль - Август</div>
-        <div>Анализ рынка</div>
+        <div>xx.xx</div>
+        <div>ChainLancers Platform Launch</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-blue"></div>
@@ -1080,58 +654,59 @@
     <div class="col-3 col-sm-2 bg-roadmap-black-1"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2017</div>
-        <div>Октябрь - Декабрь</div>
-        <div>Краудсейл: ICO</div>
+        <div>xx.xx</div>
+        <div>Distribution of CHL Tokens</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-black"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2018</div>
-        <div>Январь</div>
-        <div>Релиз: Технический WP</div>
+        <div>xx.xx</div>
+        <div>Coinlancer App Launch
+Third party integrations
+Cloud Support</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-orange-1"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2018</div>
-        <div>Март</div>
-        <div>Релиз: web-версия</div>
+        <div>xx.xx</div>
+        <div>UX/UI Upgrades
+Solution Reviews & Platform Upgrades
+</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-orange-1"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2018</div>
-        <div>Апрель</div>
-        <div>Релиз: Android приложение</div>
+        <div>xx.xx</div>
+        <div>Market Analysis
+Market Opportunities
+App & Platform Outreach
+3rd Party Integrations</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-orange-1"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2018</div>
-        <div>Май</div>
-        <div>Релиз: iOS приложение</div>
+        <div>xx.xx</div>
+        <div>Enhancements
+Upgrades in functionality
+Platform Console Upgrades</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-black"></div>
     <div class="col-9 mb-4">
         <div class="font-bold">2018</div>
-        <div>Лето - Осень</div>
-        <div>Открытие сторонних пулов</div>
+        <div>xx.xx</div>
+        <div>Coinlancer App Stability & Support</div>
     </div>
 
     <div class="col-3 col-sm-2 bg-roadmap-black"></div>
-    <div class="col-9 mb-4">
-        <div class="font-bold">2018</div>
-        <div>Осень</div>
-        <div>Интеграция инфраструктуры</div>
-    </div>
+
 
     <div class="col-3 col-sm-2 bg-roadmap-orange-dot"></div>
-    <div class="col-9 mb-4">
-        <div class="font-bold">2018/19</div>
-        <div>Зима</div>
-        <div>Интеграция со сторонними сервисами</div>
-    </div>
+
 </div>
 </div>
 </section>

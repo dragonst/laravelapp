@@ -180,8 +180,8 @@
 
 <div class="p-2 text-center">
 <small>
-    2017 &copy; Jury.Online Foundation OÜ
-    (registered in Estonia, registry code 14314305)
+    2017 &copy; ChainLancers
+    
 </small>
 </div>
 

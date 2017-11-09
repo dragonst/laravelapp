@@ -5940,3 +5940,6 @@ a.btn.btn-primary.btn-md.login-btn {
   from { transform: rotateY(0deg); }
   to { transform: rotateY(-360deg); }
 }
+
+
+.whitepaper-btn{display: block !important;text-align: center;}

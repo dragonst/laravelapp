@@ -24,3 +24,7 @@ Route::get('/confirmation/success/', 'Auth\RegisterController@confirmation_succe
 Route::get('/ico/',function(){
    return view('ico');
  })->name('ico');
+
+ Route::get('/faq',function(){
+    return view('faq');
+  })->name('faq');

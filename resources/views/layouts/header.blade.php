@@ -108,7 +108,7 @@
       <?php if(Route::current()->getName() == 'index')
       echo   '<section id="signup" class="bg-primary pt-5 mt-5 mt-lg-0 pt-lg-0 position-relative">';
       ?>
-            <nav id="navbar" class=" <?php if(Route::current()->getName() == 'ico')   echo 'navbar navbar-expand-lg navbar-light mb-5'; else {echo 'navbar navbar-expand-lg navbar-dark mb-4';} ?>">
+            <nav id="navbar" class=" <?php if(Route::current()->getName() == 'ico' || Route::current()->getName() == 'faq')   echo 'navbar navbar-expand-lg navbar-light mb-5'; else {echo 'navbar navbar-expand-lg navbar-dark mb-4';} ?>">
                 <div class="container">
                     <a class="navbar-brand py-3" href="/">
                         <img alt="jury.online" width="180" class="img-b d-none"
@@ -130,10 +130,7 @@
                     <div class="collapse navbar-collapse" id="navbarCollapse">
                         <ul class="navbar-nav ml-auto">
 
-                                <li class="nav-item">
-                                    <a href="documents.html"class="nav-link">
-                                        DOCUMENTS</a>
-                                </li>
+
 
                                 <li class="nav-item">
                                     <a href="/ico"class="nav-link">
@@ -141,7 +138,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="faq.html"class="nav-link">
+                                    <a href="/faq"class="nav-link">
                                         FAQ</a>
                                 </li>
 
@@ -166,7 +163,7 @@
                                       </form>
                                   </li>
                     @else
-                        <li class="nav-item login-button">
+                      <!--  <li class="nav-item login-button">
                           <a class="nav-link">LOGIN</a>
                           <div class="login-container">
                               <div class="arrow-up"></div>
@@ -189,7 +186,7 @@
           </div>
         </form>
                           </div>
-                        </li>
+                        </li>-->
                         <!--<li class="nav-item"><a href="{{ route('register') }}" class="nav-link">REGISTER</a></li>-->
                     @endauth
 
