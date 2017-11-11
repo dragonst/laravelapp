@@ -260,7 +260,7 @@
         <img src="/img/applications/milestone-payments.svg"
              alt="jury.online applications" class="mb-4">
         <p>
-            On Blocklancer, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Tokenholders will decide the outcome. Never again will you encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
+            On ChainLancers, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Tokenholders will decide the outcome. Never again will you encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
         </p>
     </div>
 
@@ -290,8 +290,9 @@
 
 <div class="row justify-content-center mb-4">
     <div class="col-12 col-lg-8">
-        <iframe src="http://youtube.com/embed/ofFKvgUVxEE" class="w-100 mb-5" height="400"
-                style="border: 0;" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/OdgOzvtx0mI" class="w-100 mb-5" height="400"
+        style="border: 0;" allowfullscreen></iframe>
 
         <!--<img src="/img/how-it-works/schemec619.png?v=1.0"
              alt="jury.online schema" class="img-fluid">-->
@@ -303,8 +304,8 @@
          Our Ethereum based platform uses the escrow payment system which holds the contract fees until the set obligations of the contract are met. On project completion, the funds are released, securing the interests of both the parties involved.
 
         <div class="d-flex justify-content-between mt-5 whitepaper-btn">
-            <a href="static/jury.online.whitepaper.2.00eb3.pdf?v2.0"
-               class="btn btn-primary">Whitepaper</a>
+            <a href="static/WhitePaper.pdf?v2.0"
+               class="btn btn-primary" target="_blank">Whitepaper</a>
 
         </div>
     </div>
@@ -408,8 +409,10 @@
 
 <div class="row justify-content-center mb-5">
     <div class="col-12 col-lg-8 col-xl-6">
-        <iframe src="http://youtube.com/embed/gsjSwsodVsY" allowfullscreen
-                class="w-100" height="300" style="border: 0;"></iframe>
+
+<iframe src="https://www.youtube.com/embed/pw5g5cpd10U" allowfullscreen
+        class="w-100" height="300" style="border: 0;"></iframe>
+
     </div>
 </div>
 

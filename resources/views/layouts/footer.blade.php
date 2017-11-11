@@ -15,19 +15,9 @@
                     <input id="csrf_token" name="csrf_token" type="hidden" value="IjBiOTg5NWZmYjExMzY3ODYxMDc5NmUwZGIwNDkxNmQwMTk3ZDU0Mzki.DM0OnQ._2BCewh5-XQJmHzTHXlNrCcQL-M">
 
                     <div class="input-group">
-
-
-
-
-
-
-
-
-<input class="form-control text-center text-lg-left" id="email" name="email" placeholder="Ваш адрес эл. почты..." required type="email" value="">
-
-
+                      <input class="form-control text-center text-lg-left" id="email" name="email" placeholder="Your e-mail address..." required type="email" value="">
                         <span class="input-group-btn">
-                            <button class="btn btn-primary" type="submit">Подписаться</button>
+                            <button class="btn btn-primary" type="submit">Subscribe</button>
                         </span>
                     </div>
                 </form>
@@ -36,27 +26,19 @@
                     <input id="csrf_token" name="csrf_token" type="hidden" value="IjBiOTg5NWZmYjExMzY3ODYxMDc5NmUwZGIwNDkxNmQwMTk3ZDU0Mzki.DM0OnQ._2BCewh5-XQJmHzTHXlNrCcQL-M">
 
                     <div class="form-group">
-
-
-
-
-
-
-
-
-<input class="form-control text-center text-lg-left" id="email" name="email" placeholder="Ваш адрес эл. почты..." required type="email" value="">
+<input class="form-control text-center text-lg-left" id="email" name="email" placeholder="Your e-mail addresss..." required type="email" value="">
 
                     </div>
 
                     <button class="btn btn-primary btn-block" type="submit">
-                        Подписаться
+                        Subscribe
                     </button>
                 </form>
 
                 <div class="row pt-5 justify-content-center py-3 px-lg-3 p-lg-0">
                     <div class="col-auto mx-auto mb-4 mb-lg-0">
                         <h4 class="mb-3 mb-lg-4 text-left">
-                            Cообщества
+                            Community
                         </h4>
 
                         <p>
@@ -102,7 +84,7 @@
 
                     <div class="col-auto mx-auto mb-4 mb-lg-0">
                         <h4 class="mb-3 mb-lg-4 text-left">
-                            Следите за новостями
+                            Follow
                         </h4>
 
                         <p>
@@ -148,27 +130,22 @@
 
                     <div class="col-auto mx-auto text-center text-lg-left">
                         <h4 class="mb-3 mb-lg-4 text-lg-left">
-                            Документы
+                            Documents
                         </h4>
 
                         <p>
-                            <a href="static/jury.online.terms.392b7.pdf?v3.1#zoom=100" target="_blank">
-                                Правила и условия</a>
+                            <a href="" target="_blank">
+                                Terms and Conditions</a>
                         </p>
 
                         <p>
-                            <a href="static/jury.online.whitepaper.2.01b26.pdf?v2#zoom=100" target="_blank">
+                            <a href="static/WhitePaper.pdf?v2.0" target="_blank">
                                 Whitepaper</a>
                         </p>
 
                         <p>
-                            <a href="static/jury.online.lightpaper1b26.pdf?v2#zoom=100" target="_blank">
-                                Light Paper</a>
-                        </p>
-
-                        <p>
-                            <a href="static/jury.online.legal1b26.pdf?v2#zoom=100" target="_blank">
-                                Юр. заключение</a>
+                            <a href="" target="_blank">
+                                Legal Opinion</a>
                         </p>
                     </div>
                 </div>
@@ -181,7 +158,7 @@
 <div class="p-2 text-center">
 <small>
     2017 &copy; ChainLancers
-    
+
 </small>
 </div>
 
