@@ -22,7 +22,7 @@
                     </div>
                 </form>
 
-                <form action="https://jury.online/api/subscribe" method="post" class="d-md-none">
+                <form action="" method="post" class="d-md-none">
                     <input id="csrf_token" name="csrf_token" type="hidden" value="IjBiOTg5NWZmYjExMzY3ODYxMDc5NmUwZGIwNDkxNmQwMTk3ZDU0Mzki.DM0OnQ._2BCewh5-XQJmHzTHXlNrCcQL-M">
 
                     <div class="form-group">
@@ -42,7 +42,7 @@
                         </h4>
 
                         <p>
-                            <a href="http://t.me/juryonline_community" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/telegram.png"
                                      alt="Jury.online" class="mr-2">
                                      Telegram
@@ -50,7 +50,7 @@
                         </p>
 
                         <p>
-                            <a href="http://github.com/juryonline" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/github.png"
                                      alt="Jury.online" class="mr-2">
                                      Github
@@ -58,7 +58,7 @@
                         </p>
 
                         <p>
-                            <a href="http://juryonline.slack.com/" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/slack.png"
                                     alt="Jury.online" class="mr-2">
                                     Slack
@@ -66,7 +66,7 @@
                         </p>
 
                         <p>
-                            <a href="http://steemit.com/@jury.online" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/steemit.png"
                                      alt="Jury.online" class="mr-2">
                                      Steemit
@@ -74,7 +74,7 @@
                         </p>
 
                         <p>
-                            <a href="http://bitcointalk.org/index.php?topic=2273820" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/bitcointalk.png"
                                      alt="Jury.online" class="mr-2">
                                      BitCoinTalk
@@ -88,7 +88,7 @@
                         </h4>
 
                         <p>
-                            <a href="http://facebook.com/JuryOnline-1222522414559995/" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/facebook.png"
                                      alt="Jury.online" class="mr-2">
                                      Facebook
@@ -96,7 +96,7 @@
                         </p>
 
                         <p>
-                            <a href="http://youtube.com/channel/UChTfKXvkcJGUYuBgkTWtU-g" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/youtube.png"
                                     alt="Jury.online" class="mr-2">
                                     YouTube
@@ -104,7 +104,7 @@
                         </p>
 
                         <p>
-                            <a href="http://instagram.com/Jury.Online" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/instagram.png"
                                      alt="Jury.online" class="mr-2">
                                      Instagram
@@ -112,7 +112,7 @@
                         </p>
 
                         <p>
-                            <a href="http://twitter.com/jury2beonline" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/twitter.png"
                                      alt="Jury.online" class="mr-2">
                                      Twitter
@@ -120,7 +120,7 @@
                         </p>
 
                         <p>
-                            <a href="http://medium.com/@Jury.Online" target="_blank">
+                            <a href="" target="_blank">
                                 <img src="/img/social/medium.png"
                                      alt="Jury.online" class="mr-2">
                                      Medium
