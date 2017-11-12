@@ -7,9 +7,6 @@
     <title>Chain Lancers - Zero commission freelance platform</title>
 
 
-
-
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
@@ -17,16 +14,11 @@
 
 
 
-
-
-
-
-
 <link href="/css/app5ec8.css" rel="stylesheet"></head>
 
 <body data-code="">
 
-  
+
 
       <?php if(Route::current()->getName() == 'index')
       echo   '<section id="signup" class="bg-primary pt-5 mt-5 mt-lg-0 pt-lg-0 position-relative">';
