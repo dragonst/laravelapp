@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from jury.online/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Oct 2017 17:00:13 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     <title>Chain Lancers - Zero commission freelance platform</title>
 
