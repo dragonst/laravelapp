@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<meta name="keywords" content="blockchain, judgment, arbitrage, escrow, ethereum, dispute resolution">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     <title>Chain Lancers - Zero commission freelance platform</title>
