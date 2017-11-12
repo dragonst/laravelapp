@@ -7,27 +7,7 @@
     <title>Chain Lancers - Zero commission freelance platform</title>
 
 
-        <!-- Google Tag Manager -->
-        <script>
-            (function (w, d, s, l, i) {
-                w[l] = w[l] || [];
-                w[l].push({
-                    'gtm.start': new Date().getTime(),
-                    event: 'gtm.js'
-                });
-                var f = d.getElementsByTagName(s)[0],
-                    dl = l != 'dataLayer' ? '&l=' + l : '',
-                    c;
 
-                for (var j=0; j< i.length; j++) {
-                    c = d.createElement(s);
-                    c.async = true;
-                    c.src = '../www.googletagmanager.com/gtm5445.html?id=' + i[j] + dl;
-                    f.parentNode.insertBefore(c, f);
-                }
-            })(window, document, 'script', 'dataLayer', ['GTM-KFHFT5X', 'GTM-MHDBVZ4']);
-        </script>
-        <!-- End Google Tag Manager -->
 
 
     <meta charset="utf-8">
@@ -40,26 +20,13 @@
 
 
 
-      
+
 
 <link href="/css/app5ec8.css" rel="stylesheet"></head>
 
 <body data-code="">
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHDBVZ4"
-                height="0" width="0"
-                style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFHFT5X"
-                height="0" width="0"
-                style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <!-- End Google Tag Manager (noscript) -->
+  
 
       <?php if(Route::current()->getName() == 'index')
       echo   '<section id="signup" class="bg-primary pt-5 mt-5 mt-lg-0 pt-lg-0 position-relative">';
