@@ -404,7 +404,7 @@
 <section id="team" class="pt-5 py-lg-5 bg-primary">
 <div class="container">
 <h2 class="mb-5">
-    OUR TEAM
+    TEAM
 </h2>
 
 <div class="row justify-content-center mb-5">
