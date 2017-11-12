@@ -34,45 +34,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no, user-scalable=no">
-  
-
-    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
-    <link rel="manifest" href="404.html">
-    <link rel="mask-icon" href="404.html" color="#666666">
 
 
 
-        <!-- Facebook Pixel Code -->
-        <script>
-            !function (f, b, e, v, n, t, s) {
-                if (f.fbq) return;
-                n = f.fbq = function () {
-                    n.callMethod ?
-                        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-                };
-                if (!f._fbq) f._fbq = n;
-                n.push = n;
-                n.loaded = !0;
-                n.version = '2.0';
-                n.queue = [];
-                t = b.createElement(e);
-                t.async = !0;
-                t.src = v;
-                s = b.getElementsByTagName(e)[0];
-                s.parentNode.insertBefore(t, s)
-            }(window, document, 'script',
-                '../connect.facebook.net/en_US/fbevents.js');
-            fbq('init', '203775273496003');
-            fbq('track', 'PageView');
-        </script>
-        <noscript>
-            <img height="1" width="1" style="display:none"
-                 src="https://www.facebook.com/tr?id=203775273496003&amp;ev=PageView&amp;noscript=1"/>
-        </noscript>
-        <!-- End Facebook Pixel Code -->
 
+
+
+      
 
 <link href="/css/app5ec8.css" rel="stylesheet"></head>
 
