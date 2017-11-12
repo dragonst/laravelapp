@@ -139,7 +139,7 @@
                         </p>
 
                         <p>
-                            <a href="static/WhitePaper.pdf?v2.0" target="_blank">
+                            <a href="static/WhitePaper.pdf" target="_blank">
                                 Whitepaper</a>
                         </p>
 

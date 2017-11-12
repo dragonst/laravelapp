@@ -304,7 +304,7 @@
          Our Ethereum based platform uses the escrow payment system which holds the contract fees until the set obligations of the contract are met. On project completion, the funds are released, securing the interests of both the parties involved.
 
         <div class="d-flex justify-content-between mt-5 whitepaper-btn">
-            <a href="static/WhitePaper.pdf?v2.0"
+            <a href="static/WhitePaper.pdf"
                class="btn btn-primary" target="_blank">Whitepaper</a>
 
         </div>
