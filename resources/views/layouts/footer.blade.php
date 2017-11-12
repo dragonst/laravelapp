@@ -44,7 +44,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/telegram.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Telegram
                             </a>
                         </p>
@@ -52,7 +52,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/github.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Github
                             </a>
                         </p>
@@ -60,7 +60,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/slack.png"
-                                    alt="Jury.online" class="mr-2">
+                                    alt="" class="mr-2">
                                     Slack
                             </a>
                         </p>
@@ -68,7 +68,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/steemit.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Steemit
                             </a>
                         </p>
@@ -76,7 +76,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/bitcointalk.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      BitCoinTalk
                             </a>
                         </p>
@@ -90,7 +90,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/facebook.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Facebook
                             </a>
                         </p>
@@ -98,7 +98,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/youtube.png"
-                                    alt="Jury.online" class="mr-2">
+                                    alt="" class="mr-2">
                                     YouTube
                             </a>
                         </p>
@@ -106,7 +106,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/instagram.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Instagram
                             </a>
                         </p>
@@ -114,7 +114,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/twitter.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Twitter
                             </a>
                         </p>
@@ -122,7 +122,7 @@
                         <p>
                             <a href="" target="_blank">
                                 <img src="/img/social/medium.png"
-                                     alt="Jury.online" class="mr-2">
+                                     alt="" class="mr-2">
                                      Medium
                             </a>
                         </p>

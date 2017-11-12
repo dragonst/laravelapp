@@ -14056,7 +14056,7 @@ function extend() {
 </script><head>
     <!-- Build: v1.0.103.1 -->
 
-<title>Log in — Jury.Online ICO Dashboard</title>
+<title>Log in —  ICO Dashboard</title>
 <meta name="csrf-param" content="authenticity_token">
 <meta name="csrf-token" content="hKZxXsVGrl5lXVXzsAoHEPxa18+U+5/7BPNRllwQOBd5pKGXCD5OohPOsqn4sFzgeXQC8//IJvE4cwG6wnSokw==">
 <meta charset="utf-8">
@@ -14302,7 +14302,7 @@ function extend() {
       <div class="content pb-20">
 
         <div class="login-logo">
-          <img alt="Jury.Online" src="/assets/logo-navbar-w-f6b21deb7ccdc0af2cebc91097aa57b24ac33d8f1141ad9bf7ff66053e3a5bf8.png">
+          <img alt="" src="/assets/logo-navbar-w-f6b21deb7ccdc0af2cebc91097aa57b24ac33d8f1141ad9bf7ff66053e3a5bf8.png">
         </div>
 
         <!-- Advanced login -->
@@ -14397,7 +14397,7 @@ $(function() {
 
 
 
-<div id="chatra" class="chatra--side-bottom chatra--pos-right chatra--style-round chatra--visible" style="width: 70px; height: 70px; transform: none; z-index: 9999;"><iframe frameborder="0" id="chatra__iframe" allowtransparency="true" src="https://chat.chatra.io/?hostId=FNYeCk3xWpafrXv8x&amp;mode=widget&amp;buttonType=round&amp;lang=en#clientId=mbas15h0fwr87ug5otqvpez8i3xl192kjyn0cd5&amp;currentPage=https%3A%2F%2Fjury-online.icoadm.in%2Fusers%2Fsign_in&amp;currentPageTitle=Log%20in%20%E2%80%94%20Jury.Online%20ICO%20Dashboard&amp;prevPage=&amp;referrer=https%3A%2F%2Fwww.facebook.com%2F" style="position: absolute;"></iframe></div>
+<div id="chatra" class="chatra--side-bottom chatra--pos-right chatra--style-round chatra--visible" style="width: 70px; height: 70px; transform: none; z-index: 9999;"><iframe frameborder="0" id="chatra__iframe" allowtransparency="true" src="" style="position: absolute;"></iframe></div>
 <script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","229258844275145");fbq("set","agent","tmgoogletagmanager","229258844275145");fbq("track","PageView");</script>
 
 <script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1469179636501389");fbq("track","PageView");</script>

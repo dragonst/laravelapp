@@ -79,7 +79,7 @@
         <div id="general-collapse-4" class="collapse" role="tabpanel" aria-labelledby="general-4" data-parent="#general">
             <div class="card-body">
 
-                            Jury.online is registered in Bulgaria.
+                            Chain Lancers is registered in Bulgaria.
 
             </div>
         </div>

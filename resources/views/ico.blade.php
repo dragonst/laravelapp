@@ -215,7 +215,7 @@
 
                 <p>
                     <strong class="font-bold">20%</strong>
-                    Go to the jury.online team and will be blocked for a period of 6 months. After that period
+                    Go to the ChainLancers team and will be blocked for a period of 6 months. After that period
                     <strong class="font-bold">10%</strong>
                     of the total amount blocked will be unblocked every month, with the whole sum therefore unblocked in 16 months after the ICO end
                 </p>
@@ -238,7 +238,7 @@
 
                 <p>
                     <strong class="font-bold">3%</strong>
-                    remain as a stock of liquidity to ensure flawless and independent operation of jury.online before token enters cryptocurrency exchanges and the market stabilizes, as well as for compensations in exceptional cases
+                    remain as a stock of liquidity to ensure flawless and independent operation of ChainLancers before token enters cryptocurrency exchanges and the market stabilizes, as well as for compensations in exceptional cases
                 </p>
 
                 <div class="progress mb-3">
@@ -252,7 +252,7 @@
                 <p>
                     For every
                     <strong class="font-bold">7 CHLs</strong>
-                    sold through ICO jury.online issues
+                    sold through ICO ChainLancers issues
                     <strong class="font-bold">3 CHLs</strong>
                     for itself. So up to
                     <strong class="font-bold">21 000 000 CHL</strong>

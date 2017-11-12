@@ -25,10 +25,10 @@
             <nav id="navbar" class=" <?php if(Route::current()->getName() == 'ico' || Route::current()->getName() == 'faq')   echo 'navbar navbar-expand-lg navbar-light mb-5'; else {echo 'navbar navbar-expand-lg navbar-dark mb-4';} ?>">
                 <div class="container">
                     <a class="navbar-brand py-3" href="/">
-                        <img alt="jury.online" width="180" class="img-b d-none"
+                        <img alt="" width="180" class="img-b d-none"
                              src="/img/logo-navbar.png">
 
-                        <img alt="jury.online" width="180" class="img-w"
+                        <img alt="" width="180" class="img-w"
                              src="img/logo-navbar-w.png">
                     </a>
 
