@@ -291,7 +291,7 @@
 <div class="row justify-content-center mb-4">
     <div class="col-12 col-lg-8">
 
-<iframe src="https://www.youtube.com/embed/OdgOzvtx0mI" class="w-100 mb-5" height="400"
+<iframe src="https://www.youtube.com/embed/OdgOzvtx0mI?vq=hd720" class="w-100 mb-5" height="400"
         style="border: 0;" allowfullscreen></iframe>
 
         <!--<img src="/img/how-it-works/schemec619.png?v=1.0"
@@ -410,7 +410,7 @@
 <div class="row justify-content-center mb-5">
     <div class="col-12 col-lg-8 col-xl-6">
 
-<iframe src="https://www.youtube.com/embed/pw5g5cpd10U" allowfullscreen
+<iframe src="https://www.youtube.com/embed/pw5g5cpd10U?vq=hd720" allowfullscreen
         class="w-100" height="300" style="border: 0;"></iframe>
 
     </div>
