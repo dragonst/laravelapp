@@ -183,7 +183,7 @@
         <p class="d-lg-none mb-5">
             <img src="/img/applications/percentage.svg"
                  alt="jury.online applications" class="mb-4 d-block mx-auto">
-            ChainLancers fees are only 0% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
+            ChainLancers fees are only 0% per job, without analogue to existing freelance platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
     </div>
 
