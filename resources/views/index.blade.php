@@ -10,7 +10,7 @@
                          class="mb-4 img-fluid" alt="ChainLancers logo"/>
 
                     <h1 style="font-size: 21px;">
-                        ZERO COMMISSION FREELANCE PLATFORM
+                        ZERO COMMISSION FREELANCE PLATFORM chang
                     </h1>
                 </div>
 
