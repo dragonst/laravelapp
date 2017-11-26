@@ -7,7 +7,7 @@
             <div class="row jo-main mb-5 pb-lg-5 align-items-center">
                 <div class="col-12 col-lg-6 text-center">
                     <img src="{{ URL::to('img/logo.png') }}"
-                         class="mb-4 img-fluid" alt="Jury.online logo"/>
+                         class="mb-4 img-fluid" alt="ChainLancers logo"/>
 
                     <h1 style="font-size: 21px;">
                         ZERO COMMISSION FREELANCE PLATFORM
@@ -182,7 +182,7 @@
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/percentage.svg"
-                 alt="jury.online applications" class="mb-4 d-block mx-auto">
+                 alt="ChainLancers applications" class="mb-4 d-block mx-auto">
             ChainLancers fees are only 0% per job, without analogue to existing freelance platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
     </div>
@@ -194,7 +194,7 @@
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/customer-protection.svg"
-                 alt="jury.online applications" class="mb-4 d-block mx-auto">
+                 alt="ChainLancers applications" class="mb-4 d-block mx-auto">
             Due to ChainLancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
         </p>
     </div>
@@ -206,7 +206,7 @@
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/milestone-payments.svg"
-                 alt="jury.online applications" class="mb-4 d-block mx-auto">
+                 alt="ChainLancers applications" class="mb-4 d-block mx-auto">
 
             On ChainLancers, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Token holders will decide the outcome. You will never again encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
         </p>
@@ -219,7 +219,7 @@
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/dispute-resolution.svg"
-                 alt="jury.online applications" class="mb-4 d-block mx-auto">
+                 alt="ChainLancers applications" class="mb-4 d-block mx-auto">
 
             Never depend on a single, centralized authority to settle your disputes again. With our Tokenholder Tribunal, the decision lies in the hands of thousands for Tokenholders, guaranteeing a fair decision.
         </p>
@@ -232,7 +232,7 @@
 
         <p class="d-lg-none mb-5">
             <img src="/img/applications/handshake2.svg"
-                 alt="jury.online applications" class="mb-4 d-block mx-auto">
+                 alt="ChainLancers applications" class="mb-4 d-block mx-auto">
 
             Customizable Well-Executed Contracts and Events
         </p>
@@ -242,7 +242,7 @@
 <div class="row text-center d-none d-lg-flex">
     <div class="col-12 col-lg mb-5 mb-lg-0">
         <img src="/img/applications/percentage.svg"
-             alt="jury.online applications" class="mb-4">
+             alt="ChainLancers applications" class="mb-4">
         <p>
             ChainLancers fees are only 0% per job, several times lower than existing freelancing platforms. Freelancing will finally be a lucrative AND reliable way of earning money!
         </p>
@@ -250,7 +250,7 @@
 
     <div class="col-12 col-lg mb-5 mb-lg-0">
         <img src="/img/applications/customer-protection.svg"
-             alt="jury.online applications" class="mb-4">
+             alt="ChainLancers applications" class="mb-4">
         <p>
             Due to ChainLancers being built on the Ethereum blockchain, your job offers cannot be deleted under any circumstances. Political correctness and personal feelings do not play a role on Chain Lancers because the blockchain is incorruptible.
         </p>
@@ -258,7 +258,7 @@
 
     <div class="col-12 col-lg mb-5 mb-lg-0">
         <img src="/img/applications/milestone-payments.svg"
-             alt="jury.online applications" class="mb-4">
+             alt="ChainLancers applications" class="mb-4">
         <p>
             On ChainLancers, you only have to pay if you are 100% satisfied with the work performance or when certain project milestones are reached. In case of a dispute, the Tokenholders will decide the outcome. Never again will you encounter an unfair money loss due to unilateral decisions made by a biased centralized authority.
         </p>
@@ -266,14 +266,14 @@
 
     <div class="col-12 col-lg mb-5 mb-lg-0">
         <img src="/img/applications/dispute-resolution.svg"
-             alt="jury.online applications" class="mb-4">
+             alt="ChainLancers applications" class="mb-4">
         <p>
             Never depend on a single, centralized authority to settle your disputes again. With our Tokenholder Tribunal, the decision lies in the hands of thousands for Tokenholders, guaranteeing a fair decision.
         </p>
     </div>
     <div class="col-12 col-lg mb-5 mb-lg-0">
         <img src="/img/applications/handshake2.svg"
-             alt="jury.online applications" class="mb-4">
+             alt="ChainLancers applications" class="mb-4">
         <p>
             Customizable Well-Executed Contracts and Events.
         </p>
@@ -295,7 +295,7 @@
         style="border: 0;" allowfullscreen></iframe>
 
         <!--<img src="/img/how-it-works/schemec619.png?v=1.0"
-             alt="jury.online schema" class="img-fluid">-->
+             alt="ChainLancers schema" class="img-fluid">-->
     </div>
 </div>
 
@@ -326,7 +326,7 @@
         </h4>
 
         <img src="/img/features/protocol.svg"
-             alt="jury.online features" class="mb-4">
+             alt="ChainLancers features" class="mb-4">
 
         <p>
             Уour payments will be protected through smart contracts based on Ethereum.
@@ -339,7 +339,7 @@
         </h4>
 
         <img src="/img/features/power.svg"
-             alt="jury.online features" class="mb-4">
+             alt="ChainLancers features" class="mb-4">
 
         <p>
             You can start right now, using your network to find a client. You can connect your ChainLancers profile with every social network which you are registered.
@@ -352,7 +352,7 @@
         </h4>
 
         <img src="/img/features/loudspeaker-with-two-sound-waves.svg"
-             alt="jury.online features" class="mb-4">
+             alt="ChainLancers features" class="mb-4">
 
         <p>
             While the marketplace of freelancers is competitive, the need for quality, reliable freelancers is growing. Many businesses don't have suitable employees and ChainLancers is there solution for them.
@@ -365,7 +365,7 @@
         </h4>
 
         <img src="/img/applications/percentage.svg"
-             alt="jury.online features" class="mb-4">
+             alt="ChainLancers features" class="mb-4">
 
         <p>
             The payments will be without any fees between participants.
@@ -378,7 +378,7 @@
         </h4>
 
         <img src="/img/features/auction.svg"
-             alt="jury.online features" class="mb-4">
+             alt="ChainLancers features" class="mb-4">
 
         <p>
             Neutral settlement of disputes - Freelancers Tribunal
@@ -391,7 +391,7 @@
         </h4>
 
         <img src="/img/features/checked.svg"
-             alt="jury.online features" class="mb-4">
+             alt="ChainLancers features" class="mb-4">
 
         <p>
             Every client will be able to receive all offers from freelancers within minutes. Easy & secure payments for the completed work. Only release payment when you are 100% satisfied with the work provided. Both sides can feel in good hands because of the ChainLancers Tribunal!
@@ -615,10 +615,10 @@ Platform Console Upgrades</div>
  class="w-100px" alt="telegram logo">
 
 <h4 class="my-3 my-md-5">
-Jury.online - мы всегда онлайн в нашем телеграм чате!
+ChainLancers - мы всегда онлайн в нашем телеграм чате!
 </h4>
 
-<a href="http://t.me/juryonline_community" class="btn btn-primary"
+<a href="" class="btn btn-primary"
 style="padding-left: 50px; padding-right: 50px;">Присоединиться</a>
 </div>
 @endsection

@@ -66,7 +66,7 @@
       <div class="content pb-20">
 
         <div class="login-logo">
-          <a href="https://jury.online" target="_blank"><img alt="Jury.Online" src="../img/logo-navbar-w.png"></a>
+          <a href="https://ChainLancers" target="_blank"><img alt="ChainLancers" src="../img/logo-navbar-w.png"></a>
         </div>
 
         <div class="login-form" id="success-block">
